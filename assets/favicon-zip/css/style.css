@@ -58,6 +58,18 @@ h1 {
     font-size: 115%;
 }
 
+/* Styling the navbar */
+nav {
+    position: absolute;
+    background-color: #fff;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    width: 100%;
+
+
+}
+
 /* Main content */
 main {
     background-color: lightblue;
