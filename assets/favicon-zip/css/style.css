@@ -135,7 +135,7 @@ footer {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
-
+    /* Main content */
     main {
         margin-top: 80px;
     }
